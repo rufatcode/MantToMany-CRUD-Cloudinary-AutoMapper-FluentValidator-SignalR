@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lab10_FrontToBack
+build_property.RootNamespace = Lab10_FrontToBack
+build_property.ProjectDir = /Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack
+build_property._RazorSourceGeneratorDebug = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Areas/AdminArea/Views/Brand/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5BcmVhL1ZpZXdzL0JyYW5kL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Areas/AdminArea/Views/Brand/Post.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5BcmVhL1ZpZXdzL0JyYW5kL1Bvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Areas/AdminArea/Views/Brand/Put.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5BcmVhL1ZpZXdzL0JyYW5kL1B1dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Areas/AdminArea/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5BcmVhL1ZpZXdzL0NhdGVnb3J5L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Areas/AdminArea/Views/Category/Post.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5BcmVhL1ZpZXdzL0NhdGVnb3J5L1Bvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Areas/AdminArea/Views/Category/Put.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5BcmVhL1ZpZXdzL0NhdGVnb3J5L1B1dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Areas/AdminArea/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5BcmVhL1ZpZXdzL0Rhc2hib2FyZC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Areas/AdminArea/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5BcmVhL1ZpZXdzL1Byb2R1Y3QvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Areas/AdminArea/Views/Product/Post.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5BcmVhL1ZpZXdzL1Byb2R1Y3QvUG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Areas/AdminArea/Views/Product/Put.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5BcmVhL1ZpZXdzL1Byb2R1Y3QvUHV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Areas/AdminArea/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5BcmVhL1ZpZXdzL1NoYXJlZC9fQWRtaW5MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Areas/AdminArea/Views/Tag/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5BcmVhL1ZpZXdzL1RhZy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Areas/AdminArea/Views/Tag/Post.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5BcmVhL1ZpZXdzL1RhZy9Qb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Areas/AdminArea/Views/Tag/Put.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5BcmVhL1ZpZXdzL1RhZy9QdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Areas/AdminArea/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5BcmVhL1ZpZXdzL19WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Areas/AdminArea/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5BcmVhL1ZpZXdzL19WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7plyny6dgd

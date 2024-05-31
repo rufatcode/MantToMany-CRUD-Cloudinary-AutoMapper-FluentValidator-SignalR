@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Lab10_FrontToBack.props" />
+</Project>

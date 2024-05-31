@@ -1,0 +1,1561 @@
+{
+  "Files": [
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/obj/Debug/net7.0/scopedcss/projectbundle/Lab10_FrontToBack.bundle.scp.css",
+      "PackagePath": "staticwebassets/Lab10_FrontToBack.bundle.scp.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/css/animate.css/css/animate.css",
+      "PackagePath": "staticwebassets/adminAssets/css/animate.css/css/animate.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/css/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/adminAssets/css/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/css/chartist/chartist.css",
+      "PackagePath": "staticwebassets/adminAssets/css/chartist/chartist.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/adminAssets/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/css/ionicons.css",
+      "PackagePath": "staticwebassets/adminAssets/css/ionicons.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/css/jquery.mCustomScrollbar.css",
+      "PackagePath": "staticwebassets/adminAssets/css/jquery.mCustomScrollbar.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/css/morris.js/css/morris.css",
+      "PackagePath": "staticwebassets/adminAssets/css/morris.js/css/morris.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/css/style.css",
+      "PackagePath": "staticwebassets/adminAssets/css/style.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/HELP-US-OUT.txt"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/css/font-awesome.css",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/css/font-awesome.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/animated.less",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/less/animated.less"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/bordered-pulled.less",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/less/bordered-pulled.less"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/core.less",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/less/core.less"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/fixed-width.less",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/less/fixed-width.less"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/font-awesome.less",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/less/font-awesome.less"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/icons.less",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/less/icons.less"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/larger.less",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/less/larger.less"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/list.less",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/less/list.less"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/mixins.less",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/less/mixins.less"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/path.less",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/less/path.less"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/rotated-flipped.less",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/less/rotated-flipped.less"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/screen-reader.less",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/less/screen-reader.less"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/stacked.less",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/less/stacked.less"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/variables.less",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/less/variables.less"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_animated.scss",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/scss/_animated.scss"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_bordered-pulled.scss",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/scss/_bordered-pulled.scss"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_core.scss",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/scss/_core.scss"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_fixed-width.scss",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/scss/_fixed-width.scss"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_icons.scss",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/scss/_icons.scss"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_larger.scss",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/scss/_larger.scss"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_list.scss",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/scss/_list.scss"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_path.scss",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/scss/_path.scss"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_rotated-flipped.scss",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/scss/_rotated-flipped.scss"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_screen-reader.scss",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/scss/_screen-reader.scss"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_stacked.scss",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/scss/_stacked.scss"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_variables.scss",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/scss/_variables.scss"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/font-awesome.css",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/scss/font-awesome.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/font-awesome.css.map",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/scss/font-awesome.css.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/font-awesome.scss",
+      "PackagePath": "staticwebassets/adminAssets/icon/font-awesome/scss/font-awesome.scss"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/icofont/css/icofont.css",
+      "PackagePath": "staticwebassets/adminAssets/icon/icofont/css/icofont.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/icofont/fonts/icofont.eot",
+      "PackagePath": "staticwebassets/adminAssets/icon/icofont/fonts/icofont.eot"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/icofont/fonts/icofont.svg",
+      "PackagePath": "staticwebassets/adminAssets/icon/icofont/fonts/icofont.svg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/icofont/fonts/icofont.ttf",
+      "PackagePath": "staticwebassets/adminAssets/icon/icofont/fonts/icofont.ttf"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/icofont/fonts/icofont.woff",
+      "PackagePath": "staticwebassets/adminAssets/icon/icofont/fonts/icofont.woff"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/themify-icons/fonts/themify.eot",
+      "PackagePath": "staticwebassets/adminAssets/icon/themify-icons/fonts/themify.eot"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/themify-icons/fonts/themify.svg",
+      "PackagePath": "staticwebassets/adminAssets/icon/themify-icons/fonts/themify.svg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/themify-icons/fonts/themify.ttf",
+      "PackagePath": "staticwebassets/adminAssets/icon/themify-icons/fonts/themify.ttf"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/themify-icons/fonts/themify.woff",
+      "PackagePath": "staticwebassets/adminAssets/icon/themify-icons/fonts/themify.woff"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/themify-icons/themify-icons.css",
+      "PackagePath": "staticwebassets/adminAssets/icon/themify-icons/themify-icons.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/Thumbs.db",
+      "PackagePath": "staticwebassets/adminAssets/images/Thumbs.db"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/auth/Logo-small-bottom.png",
+      "PackagePath": "staticwebassets/adminAssets/images/auth/Logo-small-bottom.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/auth/Thumbs.db",
+      "PackagePath": "staticwebassets/adminAssets/images/auth/Thumbs.db"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/auth/logo-dark.png",
+      "PackagePath": "staticwebassets/adminAssets/images/auth/logo-dark.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/auth/logo.png",
+      "PackagePath": "staticwebassets/adminAssets/images/auth/logo.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/avatar-1.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/avatar-1.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/avatar-2.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/avatar-2.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/avatar-3.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/avatar-3.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/avatar-4.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/avatar-4.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/avatar-5.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/avatar-5.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/avatar-blank.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/avatar-blank.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/blog-130.png",
+      "PackagePath": "staticwebassets/adminAssets/images/blog/blog-130.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/blog-r-1.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/blog/blog-r-1.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/blog-r-2.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/blog/blog-r-2.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/blog-r-3.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/blog/blog-r-3.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/blog-single-1.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/blog/blog-single-1.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/blog-single.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/blog/blog-single.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/blog-small-bg-1.png",
+      "PackagePath": "staticwebassets/adminAssets/images/blog/blog-small-bg-1.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/st_gallery1.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/blog/st_gallery1.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/st_gallery2.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/blog/st_gallery2.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/st_gallery3.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/blog/st_gallery3.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/browser/chrome.png",
+      "PackagePath": "staticwebassets/adminAssets/images/browser/chrome.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/browser/firefox.png",
+      "PackagePath": "staticwebassets/adminAssets/images/browser/firefox.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/browser/ie.png",
+      "PackagePath": "staticwebassets/adminAssets/images/browser/ie.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/browser/opera.png",
+      "PackagePath": "staticwebassets/adminAssets/images/browser/opera.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/browser/safari.png",
+      "PackagePath": "staticwebassets/adminAssets/images/browser/safari.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/details_close.png",
+      "PackagePath": "staticwebassets/adminAssets/images/details_close.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/details_open.png",
+      "PackagePath": "staticwebassets/adminAssets/images/details_open.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/faq_man.png",
+      "PackagePath": "staticwebassets/adminAssets/images/faq_man.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/favicon.ico",
+      "PackagePath": "staticwebassets/adminAssets/images/favicon.ico"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/logo-blue.png",
+      "PackagePath": "staticwebassets/adminAssets/images/logo-blue.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/logo-compact.png",
+      "PackagePath": "staticwebassets/adminAssets/images/logo-compact.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/logo.png",
+      "PackagePath": "staticwebassets/adminAssets/images/logo.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/mCSB_buttons.png",
+      "PackagePath": "staticwebassets/adminAssets/images/mCSB_buttons.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/mega-menu/01.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/mega-menu/01.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/mega-menu/02.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/mega-menu/02.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/mega-menu/03.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/mega-menu/03.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/select-arrow.png",
+      "PackagePath": "staticwebassets/adminAssets/images/select-arrow.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/tooltip/Euclid.png",
+      "PackagePath": "staticwebassets/adminAssets/images/tooltip/Euclid.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/tooltip/shape1.svg",
+      "PackagePath": "staticwebassets/adminAssets/images/tooltip/shape1.svg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/tooltip/tooltip1.svg",
+      "PackagePath": "staticwebassets/adminAssets/images/tooltip/tooltip1.svg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/user-bg.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/user-bg.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/AUSTRALIA.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/AUSTRALIA.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/BRAZIL.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/BRAZIL.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/DIGITALPEN.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/DIGITALPEN.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/GERMANY.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/GERMANY.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/IPAD.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/IPAD.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/PHONE1.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/PHONE1.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/PHONE2.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/PHONE2.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/PHONE3.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/PHONE3.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/PHONE4.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/PHONE4.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/TABLET.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/TABLET.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/UK.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/UK.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/USA.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/USA.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/prod1.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/prod1.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/prod2.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/prod2.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/prod3.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/prod3.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/prod4.jpg",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/prod4.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/wather2bottom.png",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/wather2bottom.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/wather2m.png",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/wather2m.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/wather2star1.png",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/wather2star1.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/wather2star2.png",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/wather2star2.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/watherbottom.png",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/watherbottom.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/wathernature.png",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/wathernature.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/watherstar1.png",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/watherstar1.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/watherstar2.png",
+      "PackagePath": "staticwebassets/adminAssets/images/widget/watherstar2.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/SmoothScroll.js",
+      "PackagePath": "staticwebassets/adminAssets/js/SmoothScroll.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/bootstrap-growl.min.js",
+      "PackagePath": "staticwebassets/adminAssets/js/bootstrap-growl.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/adminAssets/js/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/chart.js/Chart.js",
+      "PackagePath": "staticwebassets/adminAssets/js/chart.js/Chart.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/common-pages.js",
+      "PackagePath": "staticwebassets/adminAssets/js/common-pages.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/jquery-slimscroll/jquery.slimscroll.js",
+      "PackagePath": "staticwebassets/adminAssets/js/jquery-slimscroll/jquery.slimscroll.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/jquery-ui/jquery-ui.min.js",
+      "PackagePath": "staticwebassets/adminAssets/js/jquery-ui/jquery-ui.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets/adminAssets/js/jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets/adminAssets/js/jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/jquery/jquery.min.js",
+      "PackagePath": "staticwebassets/adminAssets/js/jquery/jquery.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/modernizr/css-scrollbars.js",
+      "PackagePath": "staticwebassets/adminAssets/js/modernizr/css-scrollbars.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/modernizr/modernizr.js",
+      "PackagePath": "staticwebassets/adminAssets/js/modernizr/modernizr.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/morris-custom-chart.js",
+      "PackagePath": "staticwebassets/adminAssets/js/morris-custom-chart.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/morris.js/morris.js",
+      "PackagePath": "staticwebassets/adminAssets/js/morris.js/morris.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/pcoded.min.js",
+      "PackagePath": "staticwebassets/adminAssets/js/pcoded.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/popper.js/popper.min.js",
+      "PackagePath": "staticwebassets/adminAssets/js/popper.js/popper.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/raphael/raphael.min.js",
+      "PackagePath": "staticwebassets/adminAssets/js/raphael/raphael.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/script.js",
+      "PackagePath": "staticwebassets/adminAssets/js/script.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/script.min.js",
+      "PackagePath": "staticwebassets/adminAssets/js/script.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/vertical-layout.min.js",
+      "PackagePath": "staticwebassets/adminAssets/js/vertical-layout.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/accordion/accordion.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/accordion/accordion.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/accordion/accordion.min.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/accordion/accordion.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/css/amchart.css",
+      "PackagePath": "staticwebassets/adminAssets/pages/dashboard/amchart/css/amchart.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/css/export.css",
+      "PackagePath": "staticwebassets/adminAssets/pages/dashboard/amchart/css/export.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/js/amcharts.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/dashboard/amchart/js/amcharts.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/js/custom-amchart.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/dashboard/amchart/js/custom-amchart.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/js/export.min.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/dashboard/amchart/js/export.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/js/images/dragIconRoundBig.svg",
+      "PackagePath": "staticwebassets/adminAssets/pages/dashboard/amchart/js/images/dragIconRoundBig.svg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/js/images/dragIconRoundBigH.svg",
+      "PackagePath": "staticwebassets/adminAssets/pages/dashboard/amchart/js/images/dragIconRoundBigH.svg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/js/light.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/dashboard/amchart/js/light.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/js/serial.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/dashboard/amchart/js/serial.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/custom-dashboard.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/dashboard/custom-dashboard.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/google-maps/gmaps.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/google-maps/gmaps.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/google-maps/google-maps.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/google-maps/google-maps.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/icon-modal.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/icon-modal.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/notification/notification.css",
+      "PackagePath": "staticwebassets/adminAssets/pages/notification/notification.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/notification/notification.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/notification/notification.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/todo/todo.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/todo/todo.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/waves/css/waves.min.css",
+      "PackagePath": "staticwebassets/adminAssets/pages/waves/css/waves.min.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/waves/js/waves.min.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/waves/js/waves.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/amcharts.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/widget/amchart/amcharts.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/amcharts.min.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/widget/amchart/amcharts.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/export.min.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/widget/amchart/export.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/gauge.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/widget/amchart/gauge.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/gauge.min.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/widget/amchart/gauge.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/light.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/widget/amchart/light.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/light.min.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/widget/amchart/light.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/pie.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/widget/amchart/pie.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/pie.min.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/widget/amchart/pie.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/serial.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/widget/amchart/serial.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/serial.min.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/widget/amchart/serial.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/excanvas.js",
+      "PackagePath": "staticwebassets/adminAssets/pages/widget/excanvas.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/css/plugins/animate.css",
+      "PackagePath": "staticwebassets/assets/css/plugins/animate.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/css/plugins/bootstrap.min.css",
+      "PackagePath": "staticwebassets/assets/css/plugins/bootstrap.min.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/css/plugins/default.css",
+      "PackagePath": "staticwebassets/assets/css/plugins/default.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/css/plugins/fontawesome.min.css",
+      "PackagePath": "staticwebassets/assets/css/plugins/fontawesome.min.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/css/plugins/images/ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets/assets/css/plugins/images/ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/css/plugins/images/ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets/assets/css/plugins/images/ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/css/plugins/images/ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets/assets/css/plugins/images/ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/css/plugins/images/ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets/assets/css/plugins/images/ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/css/plugins/images/ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets/assets/css/plugins/images/ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/css/plugins/images/ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets/assets/css/plugins/images/ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/css/plugins/ionicons.min.css",
+      "PackagePath": "staticwebassets/assets/css/plugins/ionicons.min.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/css/plugins/jquery-ui.min.css",
+      "PackagePath": "staticwebassets/assets/css/plugins/jquery-ui.min.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/css/plugins/slick.css",
+      "PackagePath": "staticwebassets/assets/css/plugins/slick.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/css/style.css",
+      "PackagePath": "staticwebassets/assets/css/style.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-light-300.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fa-light-300.eot"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-light-300.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fa-light-300.svg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-light-300.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fa-light-300.ttf"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-light-300.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fa-light-300.woff"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-light-300.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fa-light-300.woff2"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-light-300d41d.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fa-light-300d41d.eot"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/ionicons28b5.eot",
+      "PackagePath": "staticwebassets/assets/fonts/ionicons28b5.eot"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/ionicons28b5.svg",
+      "PackagePath": "staticwebassets/assets/fonts/ionicons28b5.svg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/ionicons28b5.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/ionicons28b5.ttf"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/fonts/ionicons28b5.woff",
+      "PackagePath": "staticwebassets/assets/fonts/ionicons28b5.woff"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/author-1.png",
+      "PackagePath": "staticwebassets/assets/images/author-1.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-1.png",
+      "PackagePath": "staticwebassets/assets/images/banner-1.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-10.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner-10.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-11.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner-11.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-12.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner-12.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-13.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner-13.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-2.png",
+      "PackagePath": "staticwebassets/assets/images/banner-2.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-3.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner-3.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-4.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner-4.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-5.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner-5.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-6.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner-6.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-7.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner-7.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-8.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner-8.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-9.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner-9.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-icon/icon1.png",
+      "PackagePath": "staticwebassets/assets/images/banner-icon/icon1.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-icon/icon2.png",
+      "PackagePath": "staticwebassets/assets/images/banner-icon/icon2.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-icon/icon3.png",
+      "PackagePath": "staticwebassets/assets/images/banner-icon/icon3.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-icon/icon4.png",
+      "PackagePath": "staticwebassets/assets/images/banner-icon/icon4.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-icon/icon5.png",
+      "PackagePath": "staticwebassets/assets/images/banner-icon/icon5.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/banner-image.png",
+      "PackagePath": "staticwebassets/assets/images/banner-image.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/bg-cound.png",
+      "PackagePath": "staticwebassets/assets/images/bg-cound.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/bg-footer.jpg",
+      "PackagePath": "staticwebassets/assets/images/bg-footer.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/bg-newletter.jpg",
+      "PackagePath": "staticwebassets/assets/images/bg-newletter.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/bg_testimonial.jpg",
+      "PackagePath": "staticwebassets/assets/images/bg_testimonial.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/blog-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog-1.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/blog-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog-2.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/blog-3.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog-3.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/blog-4.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog-4.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/brand/brand-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/brand/brand-1.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/brand/brand-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/brand/brand-2.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/brand/brand-3.jpg",
+      "PackagePath": "staticwebassets/assets/images/brand/brand-3.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/brand/brand-4.jpg",
+      "PackagePath": "staticwebassets/assets/images/brand/brand-4.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/brand/brand-5.jpg",
+      "PackagePath": "staticwebassets/assets/images/brand/brand-5.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/brand/brand-6.jpg",
+      "PackagePath": "staticwebassets/assets/images/brand/brand-6.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/category-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/category-1.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/category-10.jpg",
+      "PackagePath": "staticwebassets/assets/images/category-10.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/category-11.jpg",
+      "PackagePath": "staticwebassets/assets/images/category-11.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/category-12.jpg",
+      "PackagePath": "staticwebassets/assets/images/category-12.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/category-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/category-2.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/category-3.jpg",
+      "PackagePath": "staticwebassets/assets/images/category-3.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/category-4.jpg",
+      "PackagePath": "staticwebassets/assets/images/category-4.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/category-5.jpg",
+      "PackagePath": "staticwebassets/assets/images/category-5.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/category-6.jpg",
+      "PackagePath": "staticwebassets/assets/images/category-6.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/category-7.jpg",
+      "PackagePath": "staticwebassets/assets/images/category-7.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/category-8.jpg",
+      "PackagePath": "staticwebassets/assets/images/category-8.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/category-9.jpg",
+      "PackagePath": "staticwebassets/assets/images/category-9.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/comment-author.jpg",
+      "PackagePath": "staticwebassets/assets/images/comment-author.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/custom_banner.jpg",
+      "PackagePath": "staticwebassets/assets/images/custom_banner.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/favicon.png",
+      "PackagePath": "staticwebassets/assets/images/favicon.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/flag/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/flag/1.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/flag/2.jpg",
+      "PackagePath": "staticwebassets/assets/images/flag/2.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/icon-1.png",
+      "PackagePath": "staticwebassets/assets/images/icon-1.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/icon-2.png",
+      "PackagePath": "staticwebassets/assets/images/icon-2.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/icon-3.png",
+      "PackagePath": "staticwebassets/assets/images/icon-3.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/logo-white.png",
+      "PackagePath": "staticwebassets/assets/images/logo-white.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/logo.png",
+      "PackagePath": "staticwebassets/assets/images/logo.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/payment.png",
+      "PackagePath": "staticwebassets/assets/images/payment.png"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product-cart/cart-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/product-cart/cart-1.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product-cart/cart-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/product-cart/cart-2.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product-quick/product-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/product-quick/product-1.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product-quick/product-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/product-quick/product-2.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product-quick/product-3.jpg",
+      "PackagePath": "staticwebassets/assets/images/product-quick/product-3.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product-quick/product-4.jpg",
+      "PackagePath": "staticwebassets/assets/images/product-quick/product-4.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product-quick/product-5.jpg",
+      "PackagePath": "staticwebassets/assets/images/product-quick/product-5.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product/product-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/product-1.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product/product-10.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/product-10.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product/product-11.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/product-11.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product/product-12.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/product-12.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product/product-13.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/product-13.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product/product-14.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/product-14.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product/product-15.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/product-15.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product/product-16.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/product-16.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product/product-17.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/product-17.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product/product-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/product-2.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product/product-3.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/product-3.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product/product-4.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/product-4.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product/product-5.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/product-5.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product/product-6.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/product-6.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product/product-7.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/product-7.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product/product-8.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/product-8.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/product/product-9.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/product-9.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/slider-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/slider-1.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/slider-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/slider-2.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/slider-3.jpg",
+      "PackagePath": "staticwebassets/assets/images/slider-3.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/slider-4.jpg",
+      "PackagePath": "staticwebassets/assets/images/slider-4.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/slider-5.jpg",
+      "PackagePath": "staticwebassets/assets/images/slider-5.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/slider-6.jpg",
+      "PackagePath": "staticwebassets/assets/images/slider-6.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/slider-7.jpg",
+      "PackagePath": "staticwebassets/assets/images/slider-7.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/slider-8.jpg",
+      "PackagePath": "staticwebassets/assets/images/slider-8.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/special-products/special-products-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/special-products/special-products-1.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/special-products/special-products-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/special-products/special-products-2.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/special-products/special-products-3.jpg",
+      "PackagePath": "staticwebassets/assets/images/special-products/special-products-3.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/special-products/special-products-4.jpg",
+      "PackagePath": "staticwebassets/assets/images/special-products/special-products-4.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/special-products/special-products-5.jpg",
+      "PackagePath": "staticwebassets/assets/images/special-products/special-products-5.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/special-products/special-products-6.jpg",
+      "PackagePath": "staticwebassets/assets/images/special-products/special-products-6.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/special-products/special-products-7.jpg",
+      "PackagePath": "staticwebassets/assets/images/special-products/special-products-7.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/images/special-products/special-products-8.jpg",
+      "PackagePath": "staticwebassets/assets/images/special-products/special-products-8.jpg"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/js/main.js",
+      "PackagePath": "staticwebassets/assets/js/main.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/js/map-script.js",
+      "PackagePath": "staticwebassets/assets/js/map-script.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/js/plugins/bootstrap.min.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/bootstrap.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/js/plugins/jquery-ui.min.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/jquery-ui.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/js/plugins/jquery.countdown.min.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/jquery.countdown.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/js/plugins/popper.min.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/popper.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/js/plugins/slick.min.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/slick.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/js/vendor/jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets/assets/js/vendor/jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/js/vendor/modernizr-3.7.1.min.js",
+      "PackagePath": "staticwebassets/assets/js/vendor/modernizr-3.7.1.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/plugins/js/ajax-contact.js",
+      "PackagePath": "staticwebassets/assets/plugins/js/ajax-contact.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Lab10_FrontToBack.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Lab10_FrontToBack.props",
+      "PackagePath": "build\\Lab10_FrontToBack.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Lab10_FrontToBack.props",
+      "PackagePath": "buildMultiTargeting\\Lab10_FrontToBack.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Lab10_FrontToBack.props",
+      "PackagePath": "buildTransitive\\Lab10_FrontToBack.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

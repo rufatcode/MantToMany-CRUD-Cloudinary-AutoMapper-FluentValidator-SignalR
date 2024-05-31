@@ -1,0 +1,60 @@
+﻿@{
+    ViewBag.Title = "Category";
+}
+@model List<GetCategoryVM>
+
+<div class="card">
+    <div class="card-header">
+        <a asp-action="Post" class="btn btn-warning my-2 d-block w-25">Create Category</a>
+        <h5>Category Table</h5>
+        <span>use class <code>table-inverse</code> inside table element</span>
+        <div class="card-header-right">
+            <ul class="list-unstyled card-option">
+                <li><i class="fa fa fa-wrench open-card-option"></i></li>
+                <li><i class="fa fa-window-maximize full-card"></i></li>
+                <li><i class="fa fa-minus minimize-card"></i></li>
+                <li><i class="fa fa-refresh reload-card"></i></li>
+                <li><i class="fa fa-trash close-card"></i></li>
+            </ul>
+        </div>
+    </div>
+    <div class="card-block table-border-style">
+        <div class="table-responsive">
+            <table class="table table-inverse">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Image</th>
+                        <th>Child Count</th>
+                        <th>Parent</th>
+                        <th>Name</th>
+                        <th>Created At</th>
+                        <th>Updated At</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <th scope="row">@item.Id</th>
+                            <th scope="row">
+                                <img width="75" height="75" src="@item.ImageUrl" />
+                            </th>
+                            <th scope="row">@item.SubCategoiriesCount</th>
+                            <th scope="row">@(item.ParentName!=null?item.ParentName:"-")</th>
+                            <td>@item.Name</td>
+                            <td>@item.CreatedAt.ToString("d/M/yy h:mm tt")</td>
+                            <td>@(item.UpdatedAt!=null?item.CreatedAt.ToString("d/M/yy h:mm tt"):"-")</td>
+                            <td>
+                                <a asp-action="Delete" asp-route-Id="@item.Id"><i style="font-size:25px;" class="ti-trash text-danger"></i></a>
+                                <a asp-action="Put" asp-route-Id="@item.Id"><i style="font-size:25px;" class="ti-archive text-danger"></i></a>
+                                @*<a class="mx-3" asp-action="Detail" asp-route-Id="@item.Id"><i style="font-size:25px;" class="ti-plus text-danger"></i></a>*@
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

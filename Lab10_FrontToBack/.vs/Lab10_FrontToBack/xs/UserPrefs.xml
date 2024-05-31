@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{A4645332-BC3E-46EE-AE43-5BD101376EE5}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab10_FrontToBack/Areas/AdminArea/Controllers/ProductController.cs">
+    <Files>
+      <File FileName="Lab10_FrontToBack/Areas/AdminArea/Controllers/ProductController.cs" Line="148" Column="12" />
+      <File FileName="Lab10_FrontToBack/Areas/AdminArea/Views/Product/Post.cshtml" Line="20" Column="56" />
+      <File FileName="Lab10_FrontToBack/Areas/AdminArea/Views/Product/Put.cshtml" Line="27" Column="42" />
+      <File FileName="Lab10_FrontToBack/Services/PhotoAccessor.cs" Line="48" Column="48" />
+      <File FileName="Lab10_FrontToBack/Areas/AdminArea/Views/Product/Index.cshtml" Line="60" Column="54" />
+      <File FileName="Lab10_FrontToBack/Areas/AdminArea/Controllers/CategoryController.cs" Line="46" Column="107" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab10_FrontToBack" expanded="True">
+            <Node name="Lab10_FrontToBack" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="AdminArea" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="ProductController.cs" selected="True" />
+                  </Node>
+                  <Node name="Views" expanded="True">
+                    <Node name="Brand" expanded="True" />
+                    <Node name="Category" expanded="True" />
+                    <Node name="Product" expanded="True" />
+                    <Node name="Shared" expanded="True" />
+                    <Node name="Tag" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Configurations" expanded="True" />
+              <Node name="DataContext" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Profiles" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="Validators" expanded="True">
+                <Node name="ProductValidators" expanded="True" />
+                <Node name="TagValidator" expanded="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True">
+                <Node name="ProductVM" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab10__FrontToBack PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

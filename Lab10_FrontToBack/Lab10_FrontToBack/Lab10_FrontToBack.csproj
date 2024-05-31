@@ -1,0 +1,91 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <None Remove="Areas\" />
+    <None Remove="Areas\AdminArea\" />
+    <None Remove="Controllers\" />
+    <None Remove="Models\" />
+    <None Remove="Views\Home\" />
+    <None Remove="Areas\AdminArea\Controllers\" />
+    <None Remove="Areas\AdminArea\Views\" />
+    <None Remove="Areas\AdminArea\Views\Shared\" />
+    <None Remove="Areas\AdminArea\Views\Dashboard\" />
+    <None Remove="DataContext\" />
+    <None Remove="ViewModels\" />
+    <None Remove="ViewModels\BrandVM\" />
+    <None Remove="ViewModels\TagVM\" />
+    <None Remove="Profiles\" />
+    <None Remove="Configurations\" />
+    <None Remove="Services\" />
+    <None Remove="Services\Interfaces\" />
+    <None Remove="Validators\" />
+    <None Remove="Validators\BrandValidators\" />
+    <None Remove="Areas\AdminArea\Views\Brand\" />
+    <None Remove="ViewModels\CategoryVM\" />
+    <None Remove="Areas\AdminArea\Views\Category\" />
+    <None Remove="Validators\CategoryValidator\" />
+    <None Remove="Areas\AdminArea\Views\Tag\" />
+    <None Remove="Validators\TagValidator\" />
+    <None Remove="ViewModels\ProductVM\" />
+    <None Remove="Validators\ProductValidators\" />
+    <None Remove="Areas\AdminArea\Views\Product\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Areas\" />
+    <Folder Include="Areas\AdminArea\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Models\" />
+    <Folder Include="Views\Home\" />
+    <Folder Include="Areas\AdminArea\Controllers\" />
+    <Folder Include="Areas\AdminArea\Views\" />
+    <Folder Include="Areas\AdminArea\Views\Shared\" />
+    <Folder Include="Areas\AdminArea\Views\Dashboard\" />
+    <Folder Include="DataContext\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="ViewModels\BrandVM\" />
+    <Folder Include="ViewModels\TagVM\" />
+    <Folder Include="Profiles\" />
+    <Folder Include="Configurations\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\Interfaces\" />
+    <Folder Include="Validators\" />
+    <Folder Include="Validators\BrandValidators\" />
+    <Folder Include="Areas\AdminArea\Views\Brand\" />
+    <Folder Include="ViewModels\CategoryVM\" />
+    <Folder Include="Areas\AdminArea\Views\Category\" />
+    <Folder Include="Services\" />
+    <Folder Include="wwwroot\images\" />
+    <Folder Include="Validators\CategoryValidator\" />
+    <Folder Include="Areas\AdminArea\Views\Tag\" />
+    <Folder Include="Validators\TagValidator\" />
+    <Folder Include="ViewModels\ProductVM\" />
+    <Folder Include="Validators\ProductValidators\" />
+    <Folder Include="Areas\AdminArea\Views\Product\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="CloudinaryDotNet" Version="1.26.2" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\images\" />
+  </ItemGroup>
+</Project>

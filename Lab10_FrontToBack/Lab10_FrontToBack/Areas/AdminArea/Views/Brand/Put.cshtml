@@ -1,0 +1,24 @@
+﻿@model PutBrandVM
+@{
+    ViewBag.Title = "Post";
+}
+<div class="form-material container mt-5 w-50">
+    <h1 class="text-primary my-3">Brand Table</h1>
+    <a asp-action="Index" class="btn btn-danger">Go To Index</a>
+    <div class="text-danger my-3" asp-validation-summary="All">
+
+    </div>
+    @using (Html.BeginForm("Put", "Brand", FormMethod.Post))
+    {
+        <div class="form-group form-default">
+            <input asp-for="Name" type="text" class="form-control" required="">
+            <span class="form-bar"></span>
+            <label class="float-label">Brand Name</label>
+        </div>
+        <button type="submit" class="btn btn-success">Submit</button>
+    }
+</div>
+
+
+
+
