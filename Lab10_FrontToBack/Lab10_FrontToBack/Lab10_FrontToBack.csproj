@@ -37,6 +37,11 @@
     <None Remove="ViewModels\ProductVM\" />
     <None Remove="Validators\ProductValidators\" />
     <None Remove="Areas\AdminArea\Views\Product\" />
+    <None Remove="Views\Chat\" />
+    <None Remove="ViewModels\AccountVM\" />
+    <None Remove="ViewModels\UsersVM\" />
+    <None Remove="Views\Account\" />
+    <None Remove="Hubs\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Areas\" />
@@ -69,6 +74,14 @@
     <Folder Include="ViewModels\ProductVM\" />
     <Folder Include="Validators\ProductValidators\" />
     <Folder Include="Areas\AdminArea\Views\Product\" />
+    <Folder Include="Views\Chat\" />
+    <Folder Include="wwwroot\chat\" />
+    <Folder Include="wwwroot\chat\css\" />
+    <Folder Include="wwwroot\chat\js\" />
+    <Folder Include="ViewModels\AccountVM\" />
+    <Folder Include="ViewModels\UsersVM\" />
+    <Folder Include="Views\Account\" />
+    <Folder Include="Hubs\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
@@ -84,8 +97,12 @@
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
     <PackageReference Include="CloudinaryDotNet" Version="1.26.2" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.0" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\images\" />
+    <Content Remove="wwwroot\chat\" />
+    <Content Remove="wwwroot\chat\css\" />
+    <Content Remove="wwwroot\chat\js\" />
   </ItemGroup>
 </Project>

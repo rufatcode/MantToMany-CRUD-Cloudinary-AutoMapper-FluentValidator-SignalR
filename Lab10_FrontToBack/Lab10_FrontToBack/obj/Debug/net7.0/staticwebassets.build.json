@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5xW2J1205Hq08fn7gHF8a/H/Xfp7kOa0PBITvLfu9xY=",
+  "Hash": "fedYhVJV27vXvXjhkKn1aXRhLY6dW+Ql/dQTq2Q8u+M=",
   "Source": "Lab10_FrontToBack",
   "BasePath": "_content/Lab10_FrontToBack",
   "Mode": "Default",
@@ -68,12 +68,12 @@
       "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/css/animate.css/css/animate.css",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/css/animate.css/css/animate.css",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/css/animate.css/css/animate.css",
+      "RelativePath": "admin/css/animate.css/css/animate.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/css/animate.css/css/animate.css"
+      "OriginalItemSpec": "wwwroot/admin/css/animate.css/css/animate.css"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/css/bootstrap/css/bootstrap.min.css",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/css/bootstrap/css/bootstrap.min.css",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/css/bootstrap/css/bootstrap.min.css",
+      "RelativePath": "admin/css/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/css/bootstrap/css/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/admin/css/bootstrap/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/css/chartist/chartist.css",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/css/chartist/chartist.css",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/css/chartist/chartist.css",
+      "RelativePath": "admin/css/chartist/chartist.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/css/chartist/chartist.css"
+      "OriginalItemSpec": "wwwroot/admin/css/chartist/chartist.css"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/css/font-awesome.min.css",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/css/font-awesome.min.css",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/css/font-awesome.min.css",
+      "RelativePath": "admin/css/font-awesome.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/css/font-awesome.min.css"
+      "OriginalItemSpec": "wwwroot/admin/css/font-awesome.min.css"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/css/ionicons.css",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/css/ionicons.css",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/css/ionicons.css",
+      "RelativePath": "admin/css/ionicons.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/css/ionicons.css"
+      "OriginalItemSpec": "wwwroot/admin/css/ionicons.css"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/css/jquery.mCustomScrollbar.css",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/css/jquery.mCustomScrollbar.css",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/css/jquery.mCustomScrollbar.css",
+      "RelativePath": "admin/css/jquery.mCustomScrollbar.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/css/jquery.mCustomScrollbar.css"
+      "OriginalItemSpec": "wwwroot/admin/css/jquery.mCustomScrollbar.css"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/css/morris.js/css/morris.css",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/css/morris.js/css/morris.css",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/css/morris.js/css/morris.css",
+      "RelativePath": "admin/css/morris.js/css/morris.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/css/morris.js/css/morris.css"
+      "OriginalItemSpec": "wwwroot/admin/css/morris.js/css/morris.css"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/css/style.css",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/css/style.css",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/css/style.css",
+      "RelativePath": "admin/css/style.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/css/style.css"
+      "OriginalItemSpec": "wwwroot/admin/css/style.css"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/css/font-awesome.css",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/css/font-awesome.css",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/css/font-awesome.css",
+      "RelativePath": "admin/icon/font-awesome/css/font-awesome.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/css/font-awesome.css"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/css/font-awesome.css"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/css/font-awesome.min.css",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/css/font-awesome.min.css",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/css/font-awesome.min.css",
+      "RelativePath": "admin/icon/font-awesome/css/font-awesome.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/css/font-awesome.min.css"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/css/font-awesome.min.css"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.eot",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/fonts/fontawesome-webfont.eot",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/fonts/fontawesome-webfont.eot",
+      "RelativePath": "admin/icon/font-awesome/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.eot"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/fonts/fontawesome-webfont.eot"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.svg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/fonts/fontawesome-webfont.svg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/fonts/fontawesome-webfont.svg",
+      "RelativePath": "admin/icon/font-awesome/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.svg"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/fonts/fontawesome-webfont.svg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.ttf",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/fonts/fontawesome-webfont.ttf",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/fonts/fontawesome-webfont.ttf",
+      "RelativePath": "admin/icon/font-awesome/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.ttf"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/fonts/fontawesome-webfont.ttf"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.woff",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/fonts/fontawesome-webfont.woff",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/fonts/fontawesome-webfont.woff",
+      "RelativePath": "admin/icon/font-awesome/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.woff"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/fonts/fontawesome-webfont.woff"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.woff2",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/fonts/fontawesome-webfont.woff2",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/fonts/fontawesome-webfont.woff2",
+      "RelativePath": "admin/icon/font-awesome/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,15 +320,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/fonts/fontawesome-webfont.woff2"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/fonts/fontawesome-webfont.woff2"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/fonts/FontAwesome.otf",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/fonts/FontAwesome.otf",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/fonts/FontAwesome.otf",
+      "RelativePath": "admin/icon/font-awesome/fonts/FontAwesome.otf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/fonts/FontAwesome.otf"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/fonts/FontAwesome.otf"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/HELP-US-OUT.txt",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/HELP-US-OUT.txt",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/HELP-US-OUT.txt",
+      "RelativePath": "admin/icon/font-awesome/HELP-US-OUT.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,15 +354,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/HELP-US-OUT.txt"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/HELP-US-OUT.txt"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/animated.less",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/less/animated.less",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/less/animated.less",
+      "RelativePath": "admin/icon/font-awesome/less/animated.less",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/less/animated.less"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/less/animated.less"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/bordered-pulled.less",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/less/bordered-pulled.less",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/less/bordered-pulled.less",
+      "RelativePath": "admin/icon/font-awesome/less/bordered-pulled.less",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,15 +388,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/less/bordered-pulled.less"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/less/bordered-pulled.less"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/core.less",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/less/core.less",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/less/core.less",
+      "RelativePath": "admin/icon/font-awesome/less/core.less",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -405,15 +405,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/less/core.less"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/less/core.less"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/fixed-width.less",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/less/fixed-width.less",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/less/fixed-width.less",
+      "RelativePath": "admin/icon/font-awesome/less/fixed-width.less",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -422,15 +422,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/less/fixed-width.less"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/less/fixed-width.less"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/font-awesome.less",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/less/font-awesome.less",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/less/font-awesome.less",
+      "RelativePath": "admin/icon/font-awesome/less/font-awesome.less",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -439,15 +439,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/less/font-awesome.less"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/less/font-awesome.less"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/icons.less",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/less/icons.less",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/less/icons.less",
+      "RelativePath": "admin/icon/font-awesome/less/icons.less",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -456,15 +456,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/less/icons.less"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/less/icons.less"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/larger.less",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/less/larger.less",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/less/larger.less",
+      "RelativePath": "admin/icon/font-awesome/less/larger.less",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -473,15 +473,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/less/larger.less"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/less/larger.less"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/list.less",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/less/list.less",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/less/list.less",
+      "RelativePath": "admin/icon/font-awesome/less/list.less",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -490,15 +490,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/less/list.less"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/less/list.less"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/mixins.less",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/less/mixins.less",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/less/mixins.less",
+      "RelativePath": "admin/icon/font-awesome/less/mixins.less",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -507,15 +507,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/less/mixins.less"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/less/mixins.less"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/path.less",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/less/path.less",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/less/path.less",
+      "RelativePath": "admin/icon/font-awesome/less/path.less",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -524,15 +524,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/less/path.less"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/less/path.less"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/rotated-flipped.less",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/less/rotated-flipped.less",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/less/rotated-flipped.less",
+      "RelativePath": "admin/icon/font-awesome/less/rotated-flipped.less",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -541,15 +541,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/less/rotated-flipped.less"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/less/rotated-flipped.less"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/screen-reader.less",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/less/screen-reader.less",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/less/screen-reader.less",
+      "RelativePath": "admin/icon/font-awesome/less/screen-reader.less",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -558,15 +558,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/less/screen-reader.less"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/less/screen-reader.less"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/stacked.less",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/less/stacked.less",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/less/stacked.less",
+      "RelativePath": "admin/icon/font-awesome/less/stacked.less",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -575,15 +575,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/less/stacked.less"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/less/stacked.less"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/less/variables.less",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/less/variables.less",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/less/variables.less",
+      "RelativePath": "admin/icon/font-awesome/less/variables.less",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -592,15 +592,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/less/variables.less"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/less/variables.less"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_animated.scss",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/scss/_animated.scss",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/scss/_animated.scss",
+      "RelativePath": "admin/icon/font-awesome/scss/_animated.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -609,15 +609,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/scss/_animated.scss"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/scss/_animated.scss"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_bordered-pulled.scss",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/scss/_bordered-pulled.scss",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/scss/_bordered-pulled.scss",
+      "RelativePath": "admin/icon/font-awesome/scss/_bordered-pulled.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -626,15 +626,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/scss/_bordered-pulled.scss"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/scss/_bordered-pulled.scss"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_core.scss",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/scss/_core.scss",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/scss/_core.scss",
+      "RelativePath": "admin/icon/font-awesome/scss/_core.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -643,15 +643,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/scss/_core.scss"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/scss/_core.scss"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_fixed-width.scss",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/scss/_fixed-width.scss",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/scss/_fixed-width.scss",
+      "RelativePath": "admin/icon/font-awesome/scss/_fixed-width.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -660,15 +660,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/scss/_fixed-width.scss"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/scss/_fixed-width.scss"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_icons.scss",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/scss/_icons.scss",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/scss/_icons.scss",
+      "RelativePath": "admin/icon/font-awesome/scss/_icons.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -677,15 +677,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/scss/_icons.scss"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/scss/_icons.scss"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_larger.scss",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/scss/_larger.scss",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/scss/_larger.scss",
+      "RelativePath": "admin/icon/font-awesome/scss/_larger.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -694,15 +694,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/scss/_larger.scss"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/scss/_larger.scss"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_list.scss",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/scss/_list.scss",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/scss/_list.scss",
+      "RelativePath": "admin/icon/font-awesome/scss/_list.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -711,15 +711,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/scss/_list.scss"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/scss/_list.scss"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_mixins.scss",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/scss/_mixins.scss",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/scss/_mixins.scss",
+      "RelativePath": "admin/icon/font-awesome/scss/_mixins.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -728,15 +728,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/scss/_mixins.scss"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/scss/_mixins.scss"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_path.scss",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/scss/_path.scss",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/scss/_path.scss",
+      "RelativePath": "admin/icon/font-awesome/scss/_path.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -745,15 +745,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/scss/_path.scss"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/scss/_path.scss"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_rotated-flipped.scss",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/scss/_rotated-flipped.scss",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/scss/_rotated-flipped.scss",
+      "RelativePath": "admin/icon/font-awesome/scss/_rotated-flipped.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -762,15 +762,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/scss/_rotated-flipped.scss"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/scss/_rotated-flipped.scss"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_screen-reader.scss",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/scss/_screen-reader.scss",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/scss/_screen-reader.scss",
+      "RelativePath": "admin/icon/font-awesome/scss/_screen-reader.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -779,15 +779,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/scss/_screen-reader.scss"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/scss/_screen-reader.scss"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_stacked.scss",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/scss/_stacked.scss",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/scss/_stacked.scss",
+      "RelativePath": "admin/icon/font-awesome/scss/_stacked.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -796,15 +796,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/scss/_stacked.scss"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/scss/_stacked.scss"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/_variables.scss",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/scss/_variables.scss",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/scss/_variables.scss",
+      "RelativePath": "admin/icon/font-awesome/scss/_variables.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -813,15 +813,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/scss/_variables.scss"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/scss/_variables.scss"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/font-awesome.css",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/scss/font-awesome.css",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/scss/font-awesome.css",
+      "RelativePath": "admin/icon/font-awesome/scss/font-awesome.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -830,15 +830,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/scss/font-awesome.css"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/scss/font-awesome.css"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/font-awesome.css.map",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/scss/font-awesome.css.map",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/scss/font-awesome.css.map",
+      "RelativePath": "admin/icon/font-awesome/scss/font-awesome.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -847,15 +847,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/scss/font-awesome.css.map"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/scss/font-awesome.css.map"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/font-awesome/scss/font-awesome.scss",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/font-awesome/scss/font-awesome.scss",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/font-awesome/scss/font-awesome.scss",
+      "RelativePath": "admin/icon/font-awesome/scss/font-awesome.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -864,15 +864,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/font-awesome/scss/font-awesome.scss"
+      "OriginalItemSpec": "wwwroot/admin/icon/font-awesome/scss/font-awesome.scss"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/icofont/css/icofont.css",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/icofont/css/icofont.css",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/icofont/css/icofont.css",
+      "RelativePath": "admin/icon/icofont/css/icofont.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -881,15 +881,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/icofont/css/icofont.css"
+      "OriginalItemSpec": "wwwroot/admin/icon/icofont/css/icofont.css"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/icofont/fonts/icofont.eot",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/icofont/fonts/icofont.eot",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/icofont/fonts/icofont.eot",
+      "RelativePath": "admin/icon/icofont/fonts/icofont.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -898,15 +898,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/icofont/fonts/icofont.eot"
+      "OriginalItemSpec": "wwwroot/admin/icon/icofont/fonts/icofont.eot"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/icofont/fonts/icofont.svg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/icofont/fonts/icofont.svg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/icofont/fonts/icofont.svg",
+      "RelativePath": "admin/icon/icofont/fonts/icofont.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -915,15 +915,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/icofont/fonts/icofont.svg"
+      "OriginalItemSpec": "wwwroot/admin/icon/icofont/fonts/icofont.svg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/icofont/fonts/icofont.ttf",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/icofont/fonts/icofont.ttf",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/icofont/fonts/icofont.ttf",
+      "RelativePath": "admin/icon/icofont/fonts/icofont.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -932,15 +932,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/icofont/fonts/icofont.ttf"
+      "OriginalItemSpec": "wwwroot/admin/icon/icofont/fonts/icofont.ttf"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/icofont/fonts/icofont.woff",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/icofont/fonts/icofont.woff",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/icofont/fonts/icofont.woff",
+      "RelativePath": "admin/icon/icofont/fonts/icofont.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -949,15 +949,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/icofont/fonts/icofont.woff"
+      "OriginalItemSpec": "wwwroot/admin/icon/icofont/fonts/icofont.woff"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/themify-icons/fonts/themify.eot",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/themify-icons/fonts/themify.eot",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/themify-icons/fonts/themify.eot",
+      "RelativePath": "admin/icon/themify-icons/fonts/themify.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -966,15 +966,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/themify-icons/fonts/themify.eot"
+      "OriginalItemSpec": "wwwroot/admin/icon/themify-icons/fonts/themify.eot"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/themify-icons/fonts/themify.svg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/themify-icons/fonts/themify.svg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/themify-icons/fonts/themify.svg",
+      "RelativePath": "admin/icon/themify-icons/fonts/themify.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -983,15 +983,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/themify-icons/fonts/themify.svg"
+      "OriginalItemSpec": "wwwroot/admin/icon/themify-icons/fonts/themify.svg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/themify-icons/fonts/themify.ttf",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/themify-icons/fonts/themify.ttf",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/themify-icons/fonts/themify.ttf",
+      "RelativePath": "admin/icon/themify-icons/fonts/themify.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1000,15 +1000,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/themify-icons/fonts/themify.ttf"
+      "OriginalItemSpec": "wwwroot/admin/icon/themify-icons/fonts/themify.ttf"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/themify-icons/fonts/themify.woff",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/themify-icons/fonts/themify.woff",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/themify-icons/fonts/themify.woff",
+      "RelativePath": "admin/icon/themify-icons/fonts/themify.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1017,15 +1017,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/themify-icons/fonts/themify.woff"
+      "OriginalItemSpec": "wwwroot/admin/icon/themify-icons/fonts/themify.woff"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/icon/themify-icons/themify-icons.css",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/icon/themify-icons/themify-icons.css",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/icon/themify-icons/themify-icons.css",
+      "RelativePath": "admin/icon/themify-icons/themify-icons.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1034,15 +1034,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/icon/themify-icons/themify-icons.css"
+      "OriginalItemSpec": "wwwroot/admin/icon/themify-icons/themify-icons.css"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/auth/logo-dark.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/auth/logo-dark.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/auth/logo-dark.png",
+      "RelativePath": "admin/images/auth/logo-dark.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1051,15 +1051,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/auth/logo-dark.png"
+      "OriginalItemSpec": "wwwroot/admin/images/auth/logo-dark.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/auth/Logo-small-bottom.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/auth/Logo-small-bottom.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/auth/Logo-small-bottom.png",
+      "RelativePath": "admin/images/auth/Logo-small-bottom.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1068,15 +1068,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/auth/Logo-small-bottom.png"
+      "OriginalItemSpec": "wwwroot/admin/images/auth/Logo-small-bottom.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/auth/logo.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/auth/logo.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/auth/logo.png",
+      "RelativePath": "admin/images/auth/logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1085,15 +1085,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/auth/logo.png"
+      "OriginalItemSpec": "wwwroot/admin/images/auth/logo.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/auth/Thumbs.db",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/auth/Thumbs.db",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/auth/Thumbs.db",
+      "RelativePath": "admin/images/auth/Thumbs.db",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1102,15 +1102,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/auth/Thumbs.db"
+      "OriginalItemSpec": "wwwroot/admin/images/auth/Thumbs.db"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/avatar-1.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/avatar-1.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/avatar-1.jpg",
+      "RelativePath": "admin/images/avatar-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1119,15 +1119,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/avatar-1.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/avatar-1.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/avatar-2.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/avatar-2.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/avatar-2.jpg",
+      "RelativePath": "admin/images/avatar-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,15 +1136,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/avatar-2.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/avatar-2.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/avatar-3.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/avatar-3.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/avatar-3.jpg",
+      "RelativePath": "admin/images/avatar-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1153,15 +1153,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/avatar-3.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/avatar-3.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/avatar-4.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/avatar-4.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/avatar-4.jpg",
+      "RelativePath": "admin/images/avatar-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1170,15 +1170,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/avatar-4.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/avatar-4.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/avatar-5.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/avatar-5.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/avatar-5.jpg",
+      "RelativePath": "admin/images/avatar-5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1187,15 +1187,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/avatar-5.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/avatar-5.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/avatar-blank.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/avatar-blank.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/avatar-blank.jpg",
+      "RelativePath": "admin/images/avatar-blank.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1204,15 +1204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/avatar-blank.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/avatar-blank.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/blog-130.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/blog/blog-130.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/blog/blog-130.png",
+      "RelativePath": "admin/images/blog/blog-130.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1221,15 +1221,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/blog/blog-130.png"
+      "OriginalItemSpec": "wwwroot/admin/images/blog/blog-130.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/blog-r-1.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/blog/blog-r-1.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/blog/blog-r-1.jpg",
+      "RelativePath": "admin/images/blog/blog-r-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1238,15 +1238,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/blog/blog-r-1.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/blog/blog-r-1.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/blog-r-2.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/blog/blog-r-2.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/blog/blog-r-2.jpg",
+      "RelativePath": "admin/images/blog/blog-r-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1255,15 +1255,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/blog/blog-r-2.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/blog/blog-r-2.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/blog-r-3.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/blog/blog-r-3.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/blog/blog-r-3.jpg",
+      "RelativePath": "admin/images/blog/blog-r-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1272,15 +1272,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/blog/blog-r-3.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/blog/blog-r-3.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/blog-single-1.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/blog/blog-single-1.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/blog/blog-single-1.jpg",
+      "RelativePath": "admin/images/blog/blog-single-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1289,15 +1289,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/blog/blog-single-1.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/blog/blog-single-1.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/blog-single.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/blog/blog-single.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/blog/blog-single.jpg",
+      "RelativePath": "admin/images/blog/blog-single.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,15 +1306,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/blog/blog-single.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/blog/blog-single.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/blog-small-bg-1.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/blog/blog-small-bg-1.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/blog/blog-small-bg-1.png",
+      "RelativePath": "admin/images/blog/blog-small-bg-1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1323,15 +1323,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/blog/blog-small-bg-1.png"
+      "OriginalItemSpec": "wwwroot/admin/images/blog/blog-small-bg-1.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/st_gallery1.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/blog/st_gallery1.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/blog/st_gallery1.jpg",
+      "RelativePath": "admin/images/blog/st_gallery1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1340,15 +1340,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/blog/st_gallery1.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/blog/st_gallery1.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/st_gallery2.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/blog/st_gallery2.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/blog/st_gallery2.jpg",
+      "RelativePath": "admin/images/blog/st_gallery2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1357,15 +1357,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/blog/st_gallery2.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/blog/st_gallery2.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/blog/st_gallery3.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/blog/st_gallery3.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/blog/st_gallery3.jpg",
+      "RelativePath": "admin/images/blog/st_gallery3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1374,15 +1374,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/blog/st_gallery3.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/blog/st_gallery3.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/breadcrumb-bg.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/breadcrumb-bg.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/breadcrumb-bg.jpg",
+      "RelativePath": "admin/images/breadcrumb-bg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1391,15 +1391,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/breadcrumb-bg.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/breadcrumb-bg.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/browser/chrome.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/browser/chrome.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/browser/chrome.png",
+      "RelativePath": "admin/images/browser/chrome.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1408,15 +1408,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/browser/chrome.png"
+      "OriginalItemSpec": "wwwroot/admin/images/browser/chrome.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/browser/firefox.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/browser/firefox.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/browser/firefox.png",
+      "RelativePath": "admin/images/browser/firefox.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1425,15 +1425,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/browser/firefox.png"
+      "OriginalItemSpec": "wwwroot/admin/images/browser/firefox.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/browser/ie.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/browser/ie.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/browser/ie.png",
+      "RelativePath": "admin/images/browser/ie.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1442,15 +1442,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/browser/ie.png"
+      "OriginalItemSpec": "wwwroot/admin/images/browser/ie.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/browser/opera.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/browser/opera.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/browser/opera.png",
+      "RelativePath": "admin/images/browser/opera.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1459,15 +1459,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/browser/opera.png"
+      "OriginalItemSpec": "wwwroot/admin/images/browser/opera.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/browser/safari.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/browser/safari.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/browser/safari.png",
+      "RelativePath": "admin/images/browser/safari.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1476,15 +1476,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/browser/safari.png"
+      "OriginalItemSpec": "wwwroot/admin/images/browser/safari.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/details_close.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/details_close.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/details_close.png",
+      "RelativePath": "admin/images/details_close.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1493,15 +1493,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/details_close.png"
+      "OriginalItemSpec": "wwwroot/admin/images/details_close.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/details_open.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/details_open.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/details_open.png",
+      "RelativePath": "admin/images/details_open.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1510,15 +1510,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/details_open.png"
+      "OriginalItemSpec": "wwwroot/admin/images/details_open.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/faq_man.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/faq_man.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/faq_man.png",
+      "RelativePath": "admin/images/faq_man.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1527,15 +1527,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/faq_man.png"
+      "OriginalItemSpec": "wwwroot/admin/images/faq_man.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/favicon.ico",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/favicon.ico",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/favicon.ico",
+      "RelativePath": "admin/images/favicon.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1544,15 +1544,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/favicon.ico"
+      "OriginalItemSpec": "wwwroot/admin/images/favicon.ico"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/logo-blue.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/logo-blue.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/logo-blue.png",
+      "RelativePath": "admin/images/logo-blue.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1561,15 +1561,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/logo-blue.png"
+      "OriginalItemSpec": "wwwroot/admin/images/logo-blue.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/logo-compact.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/logo-compact.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/logo-compact.png",
+      "RelativePath": "admin/images/logo-compact.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1578,15 +1578,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/logo-compact.png"
+      "OriginalItemSpec": "wwwroot/admin/images/logo-compact.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/logo.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/logo.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/logo.png",
+      "RelativePath": "admin/images/logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1595,15 +1595,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/logo.png"
+      "OriginalItemSpec": "wwwroot/admin/images/logo.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/mCSB_buttons.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/mCSB_buttons.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/mCSB_buttons.png",
+      "RelativePath": "admin/images/mCSB_buttons.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1612,15 +1612,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/mCSB_buttons.png"
+      "OriginalItemSpec": "wwwroot/admin/images/mCSB_buttons.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/mega-menu/01.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/mega-menu/01.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/mega-menu/01.jpg",
+      "RelativePath": "admin/images/mega-menu/01.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1629,15 +1629,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/mega-menu/01.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/mega-menu/01.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/mega-menu/02.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/mega-menu/02.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/mega-menu/02.jpg",
+      "RelativePath": "admin/images/mega-menu/02.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1646,15 +1646,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/mega-menu/02.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/mega-menu/02.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/mega-menu/03.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/mega-menu/03.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/mega-menu/03.jpg",
+      "RelativePath": "admin/images/mega-menu/03.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1663,15 +1663,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/mega-menu/03.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/mega-menu/03.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/select-arrow.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/select-arrow.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/select-arrow.png",
+      "RelativePath": "admin/images/select-arrow.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1680,15 +1680,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/select-arrow.png"
+      "OriginalItemSpec": "wwwroot/admin/images/select-arrow.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/Thumbs.db",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/Thumbs.db",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/Thumbs.db",
+      "RelativePath": "admin/images/Thumbs.db",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1697,15 +1697,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/Thumbs.db"
+      "OriginalItemSpec": "wwwroot/admin/images/Thumbs.db"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/tooltip/Euclid.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/tooltip/Euclid.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/tooltip/Euclid.png",
+      "RelativePath": "admin/images/tooltip/Euclid.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1714,15 +1714,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/tooltip/Euclid.png"
+      "OriginalItemSpec": "wwwroot/admin/images/tooltip/Euclid.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/tooltip/shape1.svg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/tooltip/shape1.svg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/tooltip/shape1.svg",
+      "RelativePath": "admin/images/tooltip/shape1.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1731,15 +1731,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/tooltip/shape1.svg"
+      "OriginalItemSpec": "wwwroot/admin/images/tooltip/shape1.svg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/tooltip/tooltip1.svg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/tooltip/tooltip1.svg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/tooltip/tooltip1.svg",
+      "RelativePath": "admin/images/tooltip/tooltip1.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1748,15 +1748,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/tooltip/tooltip1.svg"
+      "OriginalItemSpec": "wwwroot/admin/images/tooltip/tooltip1.svg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/user-bg.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/user-bg.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/user-bg.jpg",
+      "RelativePath": "admin/images/user-bg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1765,15 +1765,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/user-bg.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/user-bg.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/AUSTRALIA.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/AUSTRALIA.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/AUSTRALIA.jpg",
+      "RelativePath": "admin/images/widget/AUSTRALIA.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1782,15 +1782,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/AUSTRALIA.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/AUSTRALIA.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/BRAZIL.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/BRAZIL.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/BRAZIL.jpg",
+      "RelativePath": "admin/images/widget/BRAZIL.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1799,15 +1799,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/BRAZIL.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/BRAZIL.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/DIGITALPEN.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/DIGITALPEN.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/DIGITALPEN.jpg",
+      "RelativePath": "admin/images/widget/DIGITALPEN.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1816,15 +1816,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/DIGITALPEN.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/DIGITALPEN.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/GERMANY.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/GERMANY.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/GERMANY.jpg",
+      "RelativePath": "admin/images/widget/GERMANY.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1833,15 +1833,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/GERMANY.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/GERMANY.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/IPAD.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/IPAD.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/IPAD.jpg",
+      "RelativePath": "admin/images/widget/IPAD.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1850,15 +1850,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/IPAD.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/IPAD.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/PHONE1.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/PHONE1.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/PHONE1.jpg",
+      "RelativePath": "admin/images/widget/PHONE1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1867,15 +1867,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/PHONE1.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/PHONE1.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/PHONE2.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/PHONE2.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/PHONE2.jpg",
+      "RelativePath": "admin/images/widget/PHONE2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1884,15 +1884,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/PHONE2.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/PHONE2.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/PHONE3.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/PHONE3.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/PHONE3.jpg",
+      "RelativePath": "admin/images/widget/PHONE3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1901,15 +1901,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/PHONE3.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/PHONE3.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/PHONE4.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/PHONE4.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/PHONE4.jpg",
+      "RelativePath": "admin/images/widget/PHONE4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1918,15 +1918,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/PHONE4.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/PHONE4.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/prod1.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/prod1.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/prod1.jpg",
+      "RelativePath": "admin/images/widget/prod1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1935,15 +1935,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/prod1.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/prod1.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/prod2.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/prod2.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/prod2.jpg",
+      "RelativePath": "admin/images/widget/prod2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1952,15 +1952,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/prod2.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/prod2.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/prod3.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/prod3.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/prod3.jpg",
+      "RelativePath": "admin/images/widget/prod3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1969,15 +1969,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/prod3.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/prod3.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/prod4.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/prod4.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/prod4.jpg",
+      "RelativePath": "admin/images/widget/prod4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1986,15 +1986,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/prod4.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/prod4.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/TABLET.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/TABLET.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/TABLET.jpg",
+      "RelativePath": "admin/images/widget/TABLET.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2003,15 +2003,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/TABLET.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/TABLET.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/UK.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/UK.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/UK.jpg",
+      "RelativePath": "admin/images/widget/UK.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2020,15 +2020,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/UK.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/UK.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/USA.jpg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/USA.jpg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/USA.jpg",
+      "RelativePath": "admin/images/widget/USA.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2037,15 +2037,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/USA.jpg"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/USA.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/wather2bottom.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/wather2bottom.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/wather2bottom.png",
+      "RelativePath": "admin/images/widget/wather2bottom.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2054,15 +2054,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/wather2bottom.png"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/wather2bottom.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/wather2m.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/wather2m.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/wather2m.png",
+      "RelativePath": "admin/images/widget/wather2m.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2071,15 +2071,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/wather2m.png"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/wather2m.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/wather2star1.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/wather2star1.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/wather2star1.png",
+      "RelativePath": "admin/images/widget/wather2star1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2088,15 +2088,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/wather2star1.png"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/wather2star1.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/wather2star2.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/wather2star2.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/wather2star2.png",
+      "RelativePath": "admin/images/widget/wather2star2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2105,15 +2105,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/wather2star2.png"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/wather2star2.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/watherbottom.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/watherbottom.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/watherbottom.png",
+      "RelativePath": "admin/images/widget/watherbottom.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2122,15 +2122,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/watherbottom.png"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/watherbottom.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/wathernature.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/wathernature.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/wathernature.png",
+      "RelativePath": "admin/images/widget/wathernature.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2139,15 +2139,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/wathernature.png"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/wathernature.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/watherstar1.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/watherstar1.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/watherstar1.png",
+      "RelativePath": "admin/images/widget/watherstar1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2156,15 +2156,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/watherstar1.png"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/watherstar1.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/images/widget/watherstar2.png",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/images/widget/watherstar2.png",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/images/widget/watherstar2.png",
+      "RelativePath": "admin/images/widget/watherstar2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2173,15 +2173,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/images/widget/watherstar2.png"
+      "OriginalItemSpec": "wwwroot/admin/images/widget/watherstar2.png"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/bootstrap-growl.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/bootstrap-growl.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/bootstrap-growl.min.js",
+      "RelativePath": "admin/js/bootstrap-growl.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2190,15 +2190,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/bootstrap-growl.min.js"
+      "OriginalItemSpec": "wwwroot/admin/js/bootstrap-growl.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/bootstrap/js/bootstrap.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/bootstrap/js/bootstrap.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/bootstrap/js/bootstrap.min.js",
+      "RelativePath": "admin/js/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2207,15 +2207,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/bootstrap/js/bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot/admin/js/bootstrap/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/chart.js/Chart.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/chart.js/Chart.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/chart.js/Chart.js",
+      "RelativePath": "admin/js/chart.js/Chart.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2224,15 +2224,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/chart.js/Chart.js"
+      "OriginalItemSpec": "wwwroot/admin/js/chart.js/Chart.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/common-pages.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/common-pages.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/common-pages.js",
+      "RelativePath": "admin/js/common-pages.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2241,15 +2241,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/common-pages.js"
+      "OriginalItemSpec": "wwwroot/admin/js/common-pages.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/jquery-slimscroll/jquery.slimscroll.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/jquery-slimscroll/jquery.slimscroll.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/jquery-slimscroll/jquery.slimscroll.js",
+      "RelativePath": "admin/js/jquery-slimscroll/jquery.slimscroll.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2258,15 +2258,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/jquery-slimscroll/jquery.slimscroll.js"
+      "OriginalItemSpec": "wwwroot/admin/js/jquery-slimscroll/jquery.slimscroll.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/jquery-ui/jquery-ui.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/jquery-ui/jquery-ui.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/jquery-ui/jquery-ui.min.js",
+      "RelativePath": "admin/js/jquery-ui/jquery-ui.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2275,15 +2275,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/jquery-ui/jquery-ui.min.js"
+      "OriginalItemSpec": "wwwroot/admin/js/jquery-ui/jquery-ui.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/jquery.mCustomScrollbar.concat.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/jquery.mCustomScrollbar.concat.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/jquery.mCustomScrollbar.concat.min.js",
+      "RelativePath": "admin/js/jquery.mCustomScrollbar.concat.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2292,15 +2292,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/jquery.mCustomScrollbar.concat.min.js"
+      "OriginalItemSpec": "wwwroot/admin/js/jquery.mCustomScrollbar.concat.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/jquery.mousewheel.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/jquery.mousewheel.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/jquery.mousewheel.min.js",
+      "RelativePath": "admin/js/jquery.mousewheel.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2309,15 +2309,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/jquery.mousewheel.min.js"
+      "OriginalItemSpec": "wwwroot/admin/js/jquery.mousewheel.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/jquery/jquery.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/jquery/jquery.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/jquery/jquery.min.js",
+      "RelativePath": "admin/js/jquery/jquery.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2326,15 +2326,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/jquery/jquery.min.js"
+      "OriginalItemSpec": "wwwroot/admin/js/jquery/jquery.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/modernizr/css-scrollbars.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/modernizr/css-scrollbars.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/modernizr/css-scrollbars.js",
+      "RelativePath": "admin/js/modernizr/css-scrollbars.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2343,15 +2343,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/modernizr/css-scrollbars.js"
+      "OriginalItemSpec": "wwwroot/admin/js/modernizr/css-scrollbars.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/modernizr/modernizr.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/modernizr/modernizr.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/modernizr/modernizr.js",
+      "RelativePath": "admin/js/modernizr/modernizr.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2360,15 +2360,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/modernizr/modernizr.js"
+      "OriginalItemSpec": "wwwroot/admin/js/modernizr/modernizr.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/morris-custom-chart.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/morris-custom-chart.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/morris-custom-chart.js",
+      "RelativePath": "admin/js/morris-custom-chart.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2377,15 +2377,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/morris-custom-chart.js"
+      "OriginalItemSpec": "wwwroot/admin/js/morris-custom-chart.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/morris.js/morris.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/morris.js/morris.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/morris.js/morris.js",
+      "RelativePath": "admin/js/morris.js/morris.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2394,15 +2394,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/morris.js/morris.js"
+      "OriginalItemSpec": "wwwroot/admin/js/morris.js/morris.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/pcoded.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/pcoded.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/pcoded.min.js",
+      "RelativePath": "admin/js/pcoded.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2411,15 +2411,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/pcoded.min.js"
+      "OriginalItemSpec": "wwwroot/admin/js/pcoded.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/popper.js/popper.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/popper.js/popper.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/popper.js/popper.min.js",
+      "RelativePath": "admin/js/popper.js/popper.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2428,15 +2428,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/popper.js/popper.min.js"
+      "OriginalItemSpec": "wwwroot/admin/js/popper.js/popper.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/raphael/raphael.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/raphael/raphael.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/raphael/raphael.min.js",
+      "RelativePath": "admin/js/raphael/raphael.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2445,15 +2445,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/raphael/raphael.min.js"
+      "OriginalItemSpec": "wwwroot/admin/js/raphael/raphael.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/script.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/script.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/script.js",
+      "RelativePath": "admin/js/script.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2462,15 +2462,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/script.js"
+      "OriginalItemSpec": "wwwroot/admin/js/script.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/script.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/script.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/script.min.js",
+      "RelativePath": "admin/js/script.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2479,15 +2479,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/script.min.js"
+      "OriginalItemSpec": "wwwroot/admin/js/script.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/SmoothScroll.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/SmoothScroll.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/SmoothScroll.js",
+      "RelativePath": "admin/js/SmoothScroll.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2496,15 +2496,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/SmoothScroll.js"
+      "OriginalItemSpec": "wwwroot/admin/js/SmoothScroll.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/js/vertical-layout.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/js/vertical-layout.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/js/vertical-layout.min.js",
+      "RelativePath": "admin/js/vertical-layout.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2513,15 +2513,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/js/vertical-layout.min.js"
+      "OriginalItemSpec": "wwwroot/admin/js/vertical-layout.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/accordion/accordion.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/accordion/accordion.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/accordion/accordion.js",
+      "RelativePath": "admin/pages/accordion/accordion.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2530,15 +2530,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/accordion/accordion.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/accordion/accordion.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/accordion/accordion.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/accordion/accordion.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/accordion/accordion.min.js",
+      "RelativePath": "admin/pages/accordion/accordion.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2547,15 +2547,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/accordion/accordion.min.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/accordion/accordion.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/css/amchart.css",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/dashboard/amchart/css/amchart.css",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/dashboard/amchart/css/amchart.css",
+      "RelativePath": "admin/pages/dashboard/amchart/css/amchart.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2564,15 +2564,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/dashboard/amchart/css/amchart.css"
+      "OriginalItemSpec": "wwwroot/admin/pages/dashboard/amchart/css/amchart.css"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/css/export.css",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/dashboard/amchart/css/export.css",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/dashboard/amchart/css/export.css",
+      "RelativePath": "admin/pages/dashboard/amchart/css/export.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2581,15 +2581,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/dashboard/amchart/css/export.css"
+      "OriginalItemSpec": "wwwroot/admin/pages/dashboard/amchart/css/export.css"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/js/amcharts.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/dashboard/amchart/js/amcharts.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/dashboard/amchart/js/amcharts.js",
+      "RelativePath": "admin/pages/dashboard/amchart/js/amcharts.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2598,15 +2598,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/dashboard/amchart/js/amcharts.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/dashboard/amchart/js/amcharts.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/js/custom-amchart.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/dashboard/amchart/js/custom-amchart.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/dashboard/amchart/js/custom-amchart.js",
+      "RelativePath": "admin/pages/dashboard/amchart/js/custom-amchart.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2615,15 +2615,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/dashboard/amchart/js/custom-amchart.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/dashboard/amchart/js/custom-amchart.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/js/export.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/dashboard/amchart/js/export.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/dashboard/amchart/js/export.min.js",
+      "RelativePath": "admin/pages/dashboard/amchart/js/export.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2632,15 +2632,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/dashboard/amchart/js/export.min.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/dashboard/amchart/js/export.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/js/images/dragIconRoundBig.svg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/dashboard/amchart/js/images/dragIconRoundBig.svg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/dashboard/amchart/js/images/dragIconRoundBig.svg",
+      "RelativePath": "admin/pages/dashboard/amchart/js/images/dragIconRoundBig.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2649,15 +2649,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/dashboard/amchart/js/images/dragIconRoundBig.svg"
+      "OriginalItemSpec": "wwwroot/admin/pages/dashboard/amchart/js/images/dragIconRoundBig.svg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/js/images/dragIconRoundBigH.svg",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/dashboard/amchart/js/images/dragIconRoundBigH.svg",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/dashboard/amchart/js/images/dragIconRoundBigH.svg",
+      "RelativePath": "admin/pages/dashboard/amchart/js/images/dragIconRoundBigH.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2666,15 +2666,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/dashboard/amchart/js/images/dragIconRoundBigH.svg"
+      "OriginalItemSpec": "wwwroot/admin/pages/dashboard/amchart/js/images/dragIconRoundBigH.svg"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/js/light.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/dashboard/amchart/js/light.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/dashboard/amchart/js/light.js",
+      "RelativePath": "admin/pages/dashboard/amchart/js/light.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2683,15 +2683,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/dashboard/amchart/js/light.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/dashboard/amchart/js/light.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/amchart/js/serial.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/dashboard/amchart/js/serial.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/dashboard/amchart/js/serial.js",
+      "RelativePath": "admin/pages/dashboard/amchart/js/serial.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2700,15 +2700,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/dashboard/amchart/js/serial.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/dashboard/amchart/js/serial.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/dashboard/custom-dashboard.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/dashboard/custom-dashboard.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/dashboard/custom-dashboard.js",
+      "RelativePath": "admin/pages/dashboard/custom-dashboard.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2717,15 +2717,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/dashboard/custom-dashboard.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/dashboard/custom-dashboard.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/google-maps/gmaps.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/google-maps/gmaps.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/google-maps/gmaps.js",
+      "RelativePath": "admin/pages/google-maps/gmaps.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2734,15 +2734,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/google-maps/gmaps.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/google-maps/gmaps.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/google-maps/google-maps.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/google-maps/google-maps.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/google-maps/google-maps.js",
+      "RelativePath": "admin/pages/google-maps/google-maps.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2751,15 +2751,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/google-maps/google-maps.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/google-maps/google-maps.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/icon-modal.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/icon-modal.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/icon-modal.js",
+      "RelativePath": "admin/pages/icon-modal.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2768,15 +2768,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/icon-modal.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/icon-modal.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/notification/notification.css",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/notification/notification.css",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/notification/notification.css",
+      "RelativePath": "admin/pages/notification/notification.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2785,15 +2785,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/notification/notification.css"
+      "OriginalItemSpec": "wwwroot/admin/pages/notification/notification.css"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/notification/notification.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/notification/notification.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/notification/notification.js",
+      "RelativePath": "admin/pages/notification/notification.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2802,15 +2802,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/notification/notification.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/notification/notification.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/todo/todo.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/todo/todo.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/todo/todo.js",
+      "RelativePath": "admin/pages/todo/todo.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2819,15 +2819,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/todo/todo.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/todo/todo.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/waves/css/waves.min.css",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/waves/css/waves.min.css",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/waves/css/waves.min.css",
+      "RelativePath": "admin/pages/waves/css/waves.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2836,15 +2836,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/waves/css/waves.min.css"
+      "OriginalItemSpec": "wwwroot/admin/pages/waves/css/waves.min.css"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/waves/js/waves.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/waves/js/waves.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/waves/js/waves.min.js",
+      "RelativePath": "admin/pages/waves/js/waves.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2853,15 +2853,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/waves/js/waves.min.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/waves/js/waves.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/amcharts.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/widget/amchart/amcharts.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/widget/amchart/amcharts.js",
+      "RelativePath": "admin/pages/widget/amchart/amcharts.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2870,15 +2870,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/widget/amchart/amcharts.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/widget/amchart/amcharts.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/amcharts.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/widget/amchart/amcharts.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/widget/amchart/amcharts.min.js",
+      "RelativePath": "admin/pages/widget/amchart/amcharts.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2887,15 +2887,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/widget/amchart/amcharts.min.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/widget/amchart/amcharts.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/export.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/widget/amchart/export.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/widget/amchart/export.min.js",
+      "RelativePath": "admin/pages/widget/amchart/export.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2904,15 +2904,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/widget/amchart/export.min.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/widget/amchart/export.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/gauge.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/widget/amchart/gauge.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/widget/amchart/gauge.js",
+      "RelativePath": "admin/pages/widget/amchart/gauge.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2921,15 +2921,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/widget/amchart/gauge.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/widget/amchart/gauge.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/gauge.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/widget/amchart/gauge.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/widget/amchart/gauge.min.js",
+      "RelativePath": "admin/pages/widget/amchart/gauge.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2938,15 +2938,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/widget/amchart/gauge.min.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/widget/amchart/gauge.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/light.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/widget/amchart/light.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/widget/amchart/light.js",
+      "RelativePath": "admin/pages/widget/amchart/light.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2955,15 +2955,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/widget/amchart/light.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/widget/amchart/light.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/light.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/widget/amchart/light.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/widget/amchart/light.min.js",
+      "RelativePath": "admin/pages/widget/amchart/light.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2972,15 +2972,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/widget/amchart/light.min.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/widget/amchart/light.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/pie.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/widget/amchart/pie.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/widget/amchart/pie.js",
+      "RelativePath": "admin/pages/widget/amchart/pie.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2989,15 +2989,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/widget/amchart/pie.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/widget/amchart/pie.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/pie.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/widget/amchart/pie.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/widget/amchart/pie.min.js",
+      "RelativePath": "admin/pages/widget/amchart/pie.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3006,15 +3006,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/widget/amchart/pie.min.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/widget/amchart/pie.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/serial.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/widget/amchart/serial.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/widget/amchart/serial.js",
+      "RelativePath": "admin/pages/widget/amchart/serial.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3023,15 +3023,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/widget/amchart/serial.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/widget/amchart/serial.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/amchart/serial.min.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/widget/amchart/serial.min.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/widget/amchart/serial.min.js",
+      "RelativePath": "admin/pages/widget/amchart/serial.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3040,15 +3040,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/widget/amchart/serial.min.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/widget/amchart/serial.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/adminAssets/pages/widget/excanvas.js",
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/admin/pages/widget/excanvas.js",
       "SourceId": "Lab10_FrontToBack",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
       "BasePath": "_content/Lab10_FrontToBack",
-      "RelativePath": "adminAssets/pages/widget/excanvas.js",
+      "RelativePath": "admin/pages/widget/excanvas.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3057,7 +3057,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/adminAssets/pages/widget/excanvas.js"
+      "OriginalItemSpec": "wwwroot/admin/pages/widget/excanvas.js"
     },
     {
       "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/assets/css/plugins/animate.css",
@@ -5591,6 +5591,57 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/assets/plugins/js/ajax-contact.js"
+    },
+    {
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/chat/css/chat.css",
+      "SourceId": "Lab10_FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
+      "BasePath": "_content/Lab10_FrontToBack",
+      "RelativePath": "chat/css/chat.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/chat/css/chat.css"
+    },
+    {
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/chat/js/chat.js",
+      "SourceId": "Lab10_FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
+      "BasePath": "_content/Lab10_FrontToBack",
+      "RelativePath": "chat/js/chat.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/chat/js/chat.js"
+    },
+    {
+      "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/chat/js/demo.js",
+      "SourceId": "Lab10_FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/",
+      "BasePath": "_content/Lab10_FrontToBack",
+      "RelativePath": "chat/js/demo.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/chat/js/demo.js"
     },
     {
       "Identity": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/wwwroot/favicon.ico",

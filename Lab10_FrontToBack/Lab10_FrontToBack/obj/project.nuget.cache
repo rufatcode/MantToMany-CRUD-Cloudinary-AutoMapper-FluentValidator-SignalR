@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yMxNN0YdzfdIdneoVlN7nhYIoOZL22nW61WzyzNbGWLHr2g3Avb39xo7kyFeyN0PGXNsBSVTo9YNsvMpjqlxdg==",
+  "dgSpecHash": "cRnOhT0eDJVbdbsgkVpWSw/PBYSLxPNipZzD/uUU0HZw0PP2kLWhwBY0FUZv8a0vTHuxjg/VToSp161C4v/kAQ==",
   "success": true,
   "projectFilePath": "/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,9 @@
     "/Users/rufat/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "/Users/rufat/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "/Users/rufat/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/microsoft.aspnetcore.cryptography.internal/7.0.0/microsoft.aspnetcore.cryptography.internal.7.0.0.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/7.0.0/microsoft.aspnetcore.cryptography.keyderivation.7.0.0.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/7.0.0/microsoft.aspnetcore.identity.entityframeworkcore.7.0.0.nupkg.sha512",
     "/Users/rufat/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/rufat/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/rufat/.nuget/packages/microsoft.data.sqlclient/5.0.1/microsoft.data.sqlclient.5.0.1.nupkg.sha512",
@@ -30,6 +33,8 @@
     "/Users/rufat/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "/Users/rufat/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "/Users/rufat/.nuget/packages/microsoft.extensions.dependencymodel/7.0.0/microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/microsoft.extensions.identity.core/7.0.0/microsoft.extensions.identity.core.7.0.0.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/microsoft.extensions.identity.stores/7.0.0/microsoft.extensions.identity.stores.7.0.0.nupkg.sha512",
     "/Users/rufat/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "/Users/rufat/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "/Users/rufat/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",

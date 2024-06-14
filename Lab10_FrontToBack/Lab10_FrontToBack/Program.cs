@@ -1,5 +1,6 @@
 ﻿using Lab10_FrontToBack;
 using Lab10_FrontToBack.DataContext;
+using Lab10_FrontToBack.Hubs;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -33,6 +34,7 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=home}/{action=index}/{id?}"
     );
-
+app.MapHub<DemoHub>("/demoHub");
+app.MapHub<ChatHub>("/chatHub");
 app.Run();
 

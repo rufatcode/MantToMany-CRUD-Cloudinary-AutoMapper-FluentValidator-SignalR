@@ -79,4 +79,5 @@
 /Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
 /Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
 /Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/obj/Debug/net7.0/Lab10_FrontToBack.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /Volumes/Mac/PB-101/Lab-10_FrontToBack/Lab10_FrontToBack/Lab10_FrontToBack/obj/Debug/net7.0/Lab10_FrontToBack.csproj.CopyComplete
